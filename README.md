@@ -18,3 +18,6 @@
 
 3. Após a configuração será disparado o build no Github Actions e gerada a URL do Github Pages no formato `https://<usuário>.github.io/<repositório>/`, no caso desse repositório a URL é <https://rzcastilho.github.io/githubpages_redirect/>, que ao clicar o usuário será redirecionado para a URL configurada no `index.html`.
 
+## Referências
+
+* <https://dev.to/steveblue/setup-a-redirect-on-github-pages-1ok7>
